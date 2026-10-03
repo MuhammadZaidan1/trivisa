@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Konsultasi Gratis",
+    "description": "Hubungi ahli kami untuk menentukan jenis visa yang paling tepat sesuai tujuan dan profil Anda.",
+    "icon": "MessageCircle"
+  },
+  {
+    "id": 2,
+    "title": "Penyerahan Dokumen",
+    "description": "Kirimkan dokumen persyaratan. Tim kami akan melakukan verifikasi menyeluruh agar bebas dari kesalahan.",
+    "icon": "FileCheck"
+  },
+  {
+    "id": 3,
+    "title": "Proses Kedutaan",
+    "description": "Kami yang akan mengurus jadwal appointment, pengisian formulir, hingga proses wawancara (jika diperlukan).",
+    "icon": "Building"
+  },
+  {
+    "id": 4,
+    "title": "Visa Diterbitkan",
+    "description": "Duduk manis dan tunggu. Paspor dengan visa Anda yang sudah disetujui siap dikirim langsung ke tangan Anda.",
+    "icon": "PlaneTakeoff"
+  }
+]

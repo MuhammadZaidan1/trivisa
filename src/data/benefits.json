@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Tingkat Approval 99%",
+    "description": "Didukung oleh tim ahli, kami memaksimalkan peluang visa Anda disetujui (*Syarat & Ketentuan berlaku).",
+    "iconName": "BadgeCheck"
+  },
+  {
+    "id": 2,
+    "title": "Proses Cepat",
+    "description": "Estimasi waktu yang jelas dan penanganan dokumen efisien tanpa membuang waktu Anda.",
+    "iconName": "Zap"
+  },
+  {
+    "id": 3,
+    "title": "100% Aman",
+    "description": "Kerahasiaan data terjamin dan pendampingan penuh untuk meminimalisir risiko penolakan.",
+    "iconName": "ShieldCheck"
+  },
+  {
+    "id": 4,
+    "title": "Harga Transparan",
+    "description": "Tidak ada biaya tersembunyi. Semua harga dan persyaratan diinformasikan sejak awal.",
+    "iconName": "Gem"
+  },
+  {
+    "id": 5,
+    "title": "Konsultasi 24/7",
+    "description": "Tim ahli kami siap membantu dan menjawab pertanyaan Anda kapan saja secara fleksibel.",
+    "iconName": "Clock"
+  },
+  {
+    "id": 6,
+    "title": "Asuransi Perjalanan",
+    "description": "Kami menyediakan opsi asuransi perjalanan komprehensif untuk kenyamanan ekstra Anda (tersedia dengan biaya terpisah).",
+    "iconName": "Umbrella"
+  }
+]

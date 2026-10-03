@@ -1,26 +1,112 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* 1. Color System - Menggunakan CSS variables style v4 */
+  --color-background-main: #0B0B0B;
+  --color-background-section: #111111;
+  
+  --color-gold-primary: #C8A96A;
+  --color-gold-hover: #D4AF37;
+  
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #EAEAEA;
+  --color-text-muted: #A0A0A0;
+
+  --color-card-bg: #1A1A1A;
+  --color-border-subtle: #2A2A2A;
+
+  /* 2. Typography */
+  --font-heading: "Playfair Display", serif;
+  --font-body: "Inter", sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+/* 3. Base Styles */
+@layer base {
+  body {
+    background-color: var(--color-background-main);
+    color: var(--color-text-primary);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  h1, h2, h3, h4 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    letter-spacing: -0.025em;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* 4. Custom Components - Sprint 0 Ready */
+@layer components {
+  /* Primary Button - Sesuai Mockup (Gold Pill) */
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1rem 2rem;
+    background-color: var(--color-gold-primary);
+    color: #000000;
+    font-weight: 700;
+    border-radius: 9999px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    text-align: center;
+  }
+
+  @media (min-width: 768px) {
+    .btn-primary {
+      width: auto;
+    }
+  }
+
+  .btn-primary:hover {
+    background-color: var(--color-gold-hover);
+    transform: translateY(-2px);
+  }
+
+  .btn-primary:active {
+    transform: scale(0.95);
+  }
+
+  /* Card Premium Style */
+  .card-premium {
+    background-color: var(--color-card-bg);
+    border: 1px solid var(--color-border-subtle);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+  }
+
+  .card-premium:hover {
+    border-color: var(--color-gold-primary);
+    box-shadow: 0 10px 30px -15px rgba(200, 169, 106, 0.2);
+  }
+
+  /* Standard Section Container */
+  .section-container {
+    width: 100%;
+    max-width: 80rem; /* 1280px */
+    margin-left: auto;
+    margin-right: auto;
+    /* Padding vertikal dihapus total agar tidak numpuk dengan py- di React components */
+    padding-top: 0;
+    padding-bottom: 0;
+    /* Base padding horizontal, bisa ditimpa dengan px-0 di komponen jika butuh full-width mobile */
+    padding-left: 1rem; /* setara px-4 */
+    padding-right: 1rem;
+  }
+
+  @media (min-width: 640px) { /* sm */
+    .section-container {
+      padding-left: 1.5rem; /* setara px-6 */
+      padding-right: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) { /* lg */
+    .section-container {
+      padding-left: 2rem; /* setara px-8 */
+      padding-right: 2rem;
+    }
+  }
 }

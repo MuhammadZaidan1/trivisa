@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "slug": "uk",
+    "name": "United Kingdom (U.K.)",
+    "countryCode": "GB",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/united_kingdom1.jpg", "hero": "/images/nations/hero/united_kingdom1.jpg" },
+    "description": "Perjalanan ke Inggris lebih mudah dengan layanan visa premium kami.",
+    "metaTitle": "Jasa Pembuatan Visa UK | TRIVISA",
+    "metaDescription": "Urus Visa UK dengan berbagai pilihan durasi tinggal mulai dari 6 bulan hingga 5 tahun.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Visa Turis"],
+        "amount": 4750000,
+        "description": "Akses kunjungan liburan dengan maksimal masa tinggal 6 bulan."
+      },
+      {
+        "serviceType": "Long-Term",
+        "visaType": ["Visa Turis"],
+        "amount": 14500000,
+        "description": "Kebebasan mobilitas dengan maksimal masa tinggal hingga 2 tahun."
+      },
+      {
+        "serviceType": "Extended",
+        "visaType": ["Visa Turis"],
+        "amount": 21000000,
+        "description": "Layanan prioritas untuk masa tinggal jangka panjang hingga 5 tahun."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "belanda",
+    "name": "Belanda",
+    "countryCode": "NL",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/netherland.jpg", "hero": "/images/nations/hero/netherland.jpg" },
+    "description": "Gerbang utama Anda menuju daratan Eropa.",
+    "metaTitle": "Jasa Pembuatan Visa Schengen Belanda | TRIVISA",
+    "metaDescription": "Urus Visa Schengen melalui Kedutaan Belanda dengan proses terpercaya.",
+    "pricing": [
+      {
+        "serviceType": "Normal",
+        "visaType": ["Schengen Turis"],
+        "amount": 4150000,
+        "description": "Layanan standar pengajuan visa Schengen via kedutaan Belanda."
+      },
+      {
+        "serviceType": "Primetime",
+        "visaType": ["Schengen Turis"],
+        "amount": 4640000,
+        "description": "Layanan eksklusif di luar jam operasional normal kedutaan."
+      },
+      {
+        "serviceType": "Paket SBY",
+        "visaType": ["Schengen Turis"],
+        "amount": 4900000,
+        "description": "Pengurusan khusus dokumen dari domisili Surabaya dan sekitarnya."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "prancis",
+    "name": "Prancis",
+    "countryCode": "FR",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/france.jpg", "hero": "/images/nations/hero/france.jpg" },
+    "description": "Eksplorasi romansa Paris tanpa kendala administrasi.",
+    "metaTitle": "Jasa Pembuatan Visa Schengen Prancis | TRIVISA",
+    "metaDescription": "Layanan pengurusan visa Prancis cepat dan aman.",
+    "pricing": [
+      {
+        "serviceType": "Normal",
+        "visaType": ["Schengen Turis"],
+        "amount": 4150000,
+        "description": "Aplikasi standar visa kunjungan singkat ke wilayah Schengen."
+      },
+      {
+        "serviceType": "Primetime",
+        "visaType": ["Schengen Turis"],
+        "amount": 6500000,
+        "description": "Prioritas jadwal biometrik khusus untuk Anda yang sibuk."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "polandia",
+    "name": "Polandia",
+    "countryCode": "PL",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/poland.jpg", "hero": "/images/nations/hero/poland.jpg" },
+    "description": "Solusi tepat visa ke Eropa Timur.",
+    "metaTitle": "Jasa Pembuatan Visa Polandia | TRIVISA",
+    "metaDescription": "Biro jasa urus visa kunjungan Polandia terpercaya.",
+    "pricing": [
+      {
+        "serviceType": "Normal",
+        "visaType": ["Schengen Turis"],
+        "amount": 4500000,
+        "description": "Proses standar tanpa perlu antrean panjang."
+      },
+      {
+        "serviceType": "Express",
+        "visaType": ["Schengen Turis"],
+        "amount": 9200000,
+        "description": "Jalur sangat cepat untuk keberangkatan mendadak ke Polandia."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "swiss",
+    "name": "Swiss",
+    "countryCode": "CH",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/swiss.jpg", "hero": "/images/nations/hero/swiss1.jpg" },
+    "description": "Nikmati keindahan pegunungan Alpen dengan perizinan yang mulus.",
+    "metaTitle": "Jasa Visa Swiss | TRIVISA",
+    "metaDescription": "Bantu pengurusan visa wisata ke Swiss.",
+    "pricing": [
+      {
+        "serviceType": "Normal",
+        "visaType": ["Schengen Turis"],
+        "amount": 4150000,
+        "description": "Proses pengajuan dokumen rapi dan terverifikasi."
+      },
+      {
+        "serviceType": "Express",
+        "visaType": ["Schengen Turis"],
+        "amount": 12000000,
+        "description": "Layanan super kilat untuk perjalanan bisnis atau wisata dadakan ke Swiss."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "spanyol",
+    "name": "Spanyol",
+    "countryCode": "ES",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/spain.jpg", "hero": "/images/nations/hero/spain.jpg" },
+    "description": "Perjalanan ke Spanyol yang tak terlupakan dimulai dari sini.",
+    "metaTitle": "Jasa Visa Schengen Spanyol | TRIVISA",
+    "metaDescription": "Urus visa Schengen Spanyol anti ribet.",
+    "pricing": [
+      {
+        "serviceType": "Normal",
+        "visaType": ["Schengen Turis"],
+        "amount": 4150000,
+        "description": "Bantuan penuh pengisian aplikasi dan pemeriksaan berkas."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "jerman",
+    "name": "Jerman",
+    "countryCode": "DE",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/germany.jpg", "hero": "/images/nations/hero/germany.jpg" },
+    "description": "Jelajahi pusat bisnis dan budaya Eropa.",
+    "metaTitle": "Jasa Visa Jerman | TRIVISA",
+    "metaDescription": "Pengajuan aplikasi visa Jerman untuk wisata dan bisnis.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Schengen Turis"],
+        "amount": 4150000,
+        "description": "Layanan asistensi menyeluruh untuk kelengkapan dokumen kedutaan Jerman."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "italia",
+    "name": "Italia",
+    "countryCode": "IT",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/italy.jpg", "hero": "/images/nations/hero/italy.jpg" },
+    "description": "Keajaiban sejarah Roma menanti Anda.",
+    "metaTitle": "Jasa Visa Italia | TRIVISA",
+    "metaDescription": "Urus visa kunjungan ke Italia via kedutaan resmi.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Schengen Turis"],
+        "amount": 4150000,
+        "description": "Pendampingan dokumen dan pengaturan jadwal VFS."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "usa",
+    "name": "Amerika Serikat (USA)",
+    "countryCode": "US",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/usa.jpg", "hero": "/images/nations/hero/usa1.jpg" },
+    "description": "Tingkatkan peluang persetujuan visa Amerika Serikat Anda bersama ahlinya.",
+    "metaTitle": "Jasa Visa Amerika Serikat B1/B2 | TRIVISA",
+    "metaDescription": "Bantuan pengisian DS-160 dan mock interview visa USA.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Visa Turis B1/B2"],
+        "amount": 5100000,
+        "description": "Termasuk pendampingan pengisian form DS-160 dan simulasi wawancara."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "kanada",
+    "name": "Kanada",
+    "countryCode": "CA",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/canada.jpg", "hero": "/images/nations/hero/canada.jpg" },
+    "description": "Dapatkan perizinan Kanada dengan masa berlaku hingga paspor habis.",
+    "metaTitle": "Jasa Visa Visitor Kanada | TRIVISA",
+    "metaDescription": "Layanan urus visa turis Kanada terpercaya.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Visitor Visa"],
+        "amount": 5700000,
+        "description": "Proses lengkap termasuk panduan biometrik dan penyerahan dokumen."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "australia",
+    "name": "Australia",
+    "countryCode": "AU",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/aussie1.png", "hero": "/images/nations/hero/aussie.jpg" },
+    "description": "Ajukan e-Visa Australia 100% online tanpa perlu kunjungan biometrik.",
+    "metaTitle": "Jasa Visa Australia Subclass 600 | TRIVISA",
+    "metaDescription": "Pengajuan visa kunjungan Australia cepat dan aman.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Visa Turis"],
+        "amount": 3500000,
+        "description": "Proses mudah untuk izin liburan atau kunjungan keluarga di Australia."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "selandia-baru",
+    "name": "Selandia Baru (NZ)",
+    "countryCode": "NZ",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/newzea2.jpg", "hero": "/images/nations/hero/newzea.jpg" },
+    "description": "Layanan aplikasi perizinan masuk untuk menikmati alam Selandia Baru.",
+    "metaTitle": "Jasa Visa Selandia Baru | TRIVISA",
+    "metaDescription": "Urus Visitor Visa Selandia Baru anti repot.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Visitor Visa"],
+        "amount": 6050000,
+        "description": "Pengurusan dokumen komprehensif agar pengajuan Anda bebas kendala."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "mesir",
+    "name": "Mesir",
+    "countryCode": "EG",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/egypt.jpg", "hero": "/images/nations/hero/egypt.jpg" },
+    "description": "Lihat keajaiban Piramida dengan perizinan yang pasti.",
+    "metaTitle": "Jasa Visa Mesir | TRIVISA",
+    "metaDescription": "Urus Visa wisata Mesir cepat dan terjamin.",
+    "pricing": [
+      {
+        "serviceType": "Standard",
+        "visaType": ["Visa Turis"],
+        "amount": 3500000,
+        "description": "Layanan registrasi cepat untuk wisata sejarah dan budaya."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "jepang",
+    "name": "Jepang",
+    "countryCode": "JP",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/japan.jpg", "hero": "/images/nations/hero/japan.jpg" },
+    "description": "Eksplorasi Negeri Sakura tanpa pusing dokumen.",
+    "metaTitle": "Jasa Pembuatan Visa Jepang | TRIVISA",
+    "metaDescription": "Berbagai opsi paket Visa Jepang mulai dari waiver hingga multiple entry.",
+    "pricing": [
+      {
+        "serviceType": "Single Entry (Normal)",
+        "visaType": ["Visa Turis"],
+        "amount": 1500000,
+        "description": "Kunjungan satu kali dengan waktu proses reguler kedutaan."
+      },
+      {
+        "serviceType": "Single Entry (Kilat)",
+        "visaType": ["Visa Turis"],
+        "amount": 1750000,
+        "description": "Kunjungan satu kali dengan prioritas kecepatan penerbitan dokumen."
+      },
+      {
+        "serviceType": "Multiple Entry (Normal)",
+        "visaType": ["Visa Bisnis", "Visa Turis"],
+        "amount": 3500000,
+        "description": "Bebas keluar masuk Jepang selama 1-5 tahun (syarat dan ketentuan berlaku)."
+      },
+      {
+        "serviceType": "Multiple Entry (Kilat)",
+        "visaType": ["Visa Bisnis", "Visa Turis"],
+        "amount": 3750000,
+        "description": "Jalur cepat untuk penerbitan izin masuk berulang ke wilayah Jepang."
+      },
+      {
+        "serviceType": "Visa Waiver",
+        "visaType": ["Bebas Visa", "E-Paspor"],
+        "amount": 800000,
+        "description": "Registrasi pra-keberangkatan khusus untuk pemegang e-paspor Indonesia."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "korea-selatan",
+    "name": "Korea Selatan",
+    "countryCode": "KR",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/korea.jpg", "hero": "/images/nations/hero/korea.jpg" },
+    "description": "Wujudkan impian liburan K-Pop Anda dengan pengurusan visa praktis.",
+    "metaTitle": "Jasa Visa Korea Selatan | TRIVISA",
+    "metaDescription": "Layanan profesional urus Visa Korea Selatan Single maupun Multiple Entry.",
+    "pricing": [
+      {
+        "serviceType": "Single Entry",
+        "visaType": ["Visa Turis"],
+        "amount": 1700000,
+        "description": "Layanan standar untuk kunjungan tunggal wisata atau konser."
+      },
+      {
+        "serviceType": "Single Entry Express",
+        "visaType": ["Visa Turis"],
+        "amount": 2200000,
+        "description": "Proses diakselerasi untuk jadwal keberangkatan yang sudah dekat."
+      },
+      {
+        "serviceType": "Multiple Entry",
+        "visaType": ["Visa Turis"],
+        "amount": 3600000,
+        "description": "Izin berkunjung berulang bagi Anda yang sering bepergian ke Korea."
+      },
+      {
+        "serviceType": "Multiple Entry Express",
+        "visaType": ["Visa Turis"],
+        "amount": 3950000,
+        "description": "Layanan VIP paling cepat untuk kebebasan keluar-masuk jangka panjang."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "tiongkok",
+    "name": "Tiongkok",
+    "countryCode": "CN",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/tiongkok.jpg", "hero": "/images/nations/hero/tiongkok.jpg" },
+    "description": "Pengurusan izin lintas negara Tiongkok untuk kepentingan bisnis dan wisata.",
+    "metaTitle": "Jasa Urus Visa Tiongkok/China | TRIVISA",
+    "metaDescription": "Layanan visa China cepat dengan tingkat persetujuan tinggi.",
+    "pricing": [
+      {
+        "serviceType": "Single Entry (Normal)",
+        "visaType": ["Visa Turis", "Visa Bisnis"],
+        "amount": 2600000,
+        "description": "Satu kali akses masuk untuk keperluan pameran dagang atau wisata."
+      },
+      {
+        "serviceType": "Multiple Entry 1 Thn",
+        "visaType": ["Visa Bisnis"],
+        "amount": 3600000,
+        "description": "Bebas keluar masuk selama 1 tahun. Cocok untuk pebisnis aktif."
+      },
+      {
+        "serviceType": "Multiple Entry > 1 Thn",
+        "visaType": ["Visa Bisnis"],
+        "amount": 5600000,
+        "description": "Akses jangka panjang lebih dari satu tahun untuk aktivitas perdagangan."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "taiwan",
+    "name": "Taiwan",
+    "countryCode": "TW",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/taiwan1.jpg", "hero": "/images/nations/hero/taiwan.jpg" },
+    "description": "Layanan cepat penerbitan perizinan kunjungan ke Taiwan.",
+    "metaTitle": "Jasa Pembuatan Visa & E-Visa Taiwan | TRIVISA",
+    "metaDescription": "Biro pengajuan e-visa dan visa reguler Taiwan profesional.",
+    "pricing": [
+      {
+        "serviceType": "Single Entry (Normal)",
+        "visaType": ["Visa Turis"],
+        "amount": 1950000,
+        "description": "Pengajuan melalui kedutaan dengan proses rapi dan terukur."
+      },
+      {
+        "serviceType": "E-Visa / TAC",
+        "visaType": ["Bebas Visa Bersyarat"],
+        "amount": 500000,
+        "description": "Registrasi elektronik hemat bagi pendaftar yang memenuhi kualifikasi khusus."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "india",
+    "name": "India",
+    "countryCode": "IN",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/india.jpg", "hero": "/images/nations/hero/india1.jpg" },
+    "description": "Proses visa elektronik India yang diurus 100% secara digital.",
+    "metaTitle": "Jasa E-Visa India Online | TRIVISA",
+    "metaDescription": "Layanan pendaftaran e-Visa turis dan bisnis India.",
+    "pricing": [
+      {
+        "serviceType": "Online / Bisnis",
+        "visaType": ["E-Visa"],
+        "amount": 2550000,
+        "description": "Perizinan digital tanpa repot datang menyerahkan berkas fisik."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "uea-dubai",
+    "name": "Uni Emirat Arab (Dubai)",
+    "countryCode": "AE",
+    "isPopular": true,
+    "images": { "card": "/images/nations/card/dubai2.jpg", "hero": "/images/nations/hero/dubai.jpg" },
+    "description": "Buka gerbang kemewahan Dubai dengan layanan visa andalan kami.",
+    "metaTitle": "Jasa Pengurusan Visa Dubai UEA | TRIVISA",
+    "metaDescription": "Visa Dubai untuk wilayah Emirate dan Non-Emirate.",
+    "pricing": [
+      {
+        "serviceType": "Normal",
+        "visaType": ["Dubai Emirate Visa"],
+        "amount": 2150000,
+        "description": "Aplikasi standar penerbangan menuju wilayah emirat Dubai."
+      },
+      {
+        "serviceType": "Express",
+        "visaType": ["Dubai Emirate Visa"],
+        "amount": 3500000,
+        "description": "Opsi percepatan proses untuk kunjungan emirat Dubai yang mendesak."
+      },
+      {
+        "serviceType": "Standard",
+        "visaType": ["Dubai Non-Emirate"],
+        "amount": 3500000,
+        "description": "Pengajuan perizinan menuju wilayah Uni Emirat Arab di luar Dubai."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "rusia",
+    "name": "Rusia",
+    "countryCode": "RU",
+    "isPopular": false,
+    "images": { "card": "/images/nations/card/russia.jpg", "hero": "/images/nations/hero/russia.jpg" },
+    "description": "Jelajahi megahnya arsitektur Rusia dengan perizinan yang kuat.",
+    "metaTitle": "Jasa Urus Visa Rusia | TRIVISA",
+    "metaDescription": "Layanan urus visa ke Rusia untuk kunjungan tunggal maupun ganda.",
+    "pricing": [
+      {
+        "serviceType": "Single Entry (Standar)",
+        "visaType": ["Visa Turis"],
+        "amount": 3680000,
+        "description": "Kunjungan satu kali dengan durasi standar."
+      },
+      {
+        "serviceType": "Single Entry (Prioritas)",
+        "visaType": ["Visa Turis"],
+        "amount": 4800000,
+        "description": "Proses lebih cepat untuk satu kali izin masuk."
+      },
+      {
+        "serviceType": "Double Entry (Standar)",
+        "visaType": ["Visa Turis"],
+        "amount": 4320000,
+        "description": "Kebebasan dua kali kunjungan dengan jangka waktu reguler."
+      },
+      {
+        "serviceType": "Double Entry (Prioritas)",
+        "visaType": ["Visa Turis"],
+        "amount": 6400000,
+        "description": "Akses dua kali kunjungan yang diutamakan oleh pihak imigrasi."
+      }
+    ]
+  }
+]
